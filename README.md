@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=820&height=44&lines=UI%2FUX%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Game%20Developer;Tech%20and%20design" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=820&height=44&lines=UI%2FUX%20Designer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Game%20Developer;Tech%20&%20art" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
