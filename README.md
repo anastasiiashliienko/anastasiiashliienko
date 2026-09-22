@@ -34,7 +34,10 @@ My background in game development has shaped my understanding of interactive env
 <p align="left">
   <a href="https://www.linkedin.com/in/anastasiiashliienko/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://figmashort.link/8sZnWs"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.figma.com/proto/R8LlT1ybX5XcjGo84uQL96/Anastasiia-Shliienko-Portfolio?node-id=1080-14929&viewport=-8833%2C-41%2C0.29&t=NXZF8284uXZCZlqb-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1080%3A14929&page-id=44%3A1472"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Game Project" /></a>
+<a href="https://www.figma.com/proto/R8LlT1ybX5XcjGo84uQL96/Anastasiia-Shliienko-Portfolio?node-id=1080-14929&viewport=-8833%2C-41%2C0.29&t=NXZF8284uXZCZlqb-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1080%3A14929&page-id=44%3A1472">
+  <img src="https://img.shields.io/badge/Portfolio-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Portfolio" />
+</a>
+  
   <a href="mailto:shliienkoanastasiia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
